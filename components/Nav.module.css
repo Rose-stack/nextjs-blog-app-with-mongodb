@@ -1,0 +1,14 @@
+.nav {
+    width: 100%;
+    border-bottom: 1px solid #ccc;
+}
+
+.list {
+    display: flex;
+    justify-content: center;
+    list-style-type: none;
+}
+
+.item {
+    margin-right: 12px;
+}
