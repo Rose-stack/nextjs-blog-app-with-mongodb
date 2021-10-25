@@ -1,3 +1,6 @@
+For further refence check out this written guide : https://www.section.io/engineering-education/build-nextjs-with-mongodb-and-deploy-on-vercel/
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
